@@ -1,0 +1,3 @@
+﻿  Ejerccio3.cpp
+C:\Users\noggo\source\repos\Juan\Ejerccio3\Ejerccio3.cpp(45,25): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Ejerccio3.vcxproj -> C:\Users\noggo\source\repos\Juan\x64\Debug\Ejerccio3.exe

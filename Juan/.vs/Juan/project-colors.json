@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc2caf28-4ddc-4f0a-9033-984703ca554d": {
+      "ProjectGuid": "fc2caf28-4ddc-4f0a-9033-984703ca554d",
+      "DisplayName": "Juan",
+      "ColorIndex": 0
+    },
+    "da231f48-57a9-4276-8f0c-fb0bdaffdf4e": {
+      "ProjectGuid": "da231f48-57a9-4276-8f0c-fb0bdaffdf4e",
+      "DisplayName": "Ejercicio2",
+      "ColorIndex": 1
+    },
+    "f4a1404b-e735-4f6d-9ca5-3d2b0c3aef80": {
+      "ProjectGuid": "f4a1404b-e735-4f6d-9ca5-3d2b0c3aef80",
+      "DisplayName": "Ejerccio3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
