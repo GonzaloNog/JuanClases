@@ -15,7 +15,27 @@
       "ProjectGuid": "f4a1404b-e735-4f6d-9ca5-3d2b0c3aef80",
       "DisplayName": "Ejerccio3",
       "ColorIndex": 2
+    },
+    "fe572bf6-5dba-4729-8680-012159796b72": {
+      "ProjectGuid": "fe572bf6-5dba-4729-8680-012159796b72",
+      "DisplayName": "Punteros1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "5287f66c-fa33-44d4-8f15-0b712e500e73": {
+      "ProjectGuid": "5287f66c-fa33-44d4-8f15-0b712e500e73",
+      "DisplayName": "Punteros2",
+      "ColorIndex": 4
+    },
+    "91be079b-dd95-48aa-a92d-352388dda694": {
+      "ProjectGuid": "91be079b-dd95-48aa-a92d-352388dda694",
+      "DisplayName": "MetodosVirtuales",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 6
 }

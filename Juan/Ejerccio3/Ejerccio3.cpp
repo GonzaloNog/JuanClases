@@ -15,6 +15,12 @@ class ExtraterrestrialRobot {
 public:
     virtual ~ExtraterrestrialRobot() {} // Destructor virtual
     virtual void doMission() = 0; // Método virtual puro
+    void mostrarCosas(int a) {
+        std::cout << "Te muestro" << std::endl;
+    }
+    void mostrarCosas(int a, int b) {
+        std::cout << "Te muestro" << std::endl;
+    }
 }; 
 
 // Definición de la clase Exploration, que hereda de ExtraterrestrialRobot
