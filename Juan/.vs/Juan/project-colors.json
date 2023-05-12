@@ -35,7 +35,17 @@
       "ProjectGuid": "91be079b-dd95-48aa-a92d-352388dda694",
       "DisplayName": "MetodosVirtuales",
       "ColorIndex": 5
+    },
+    "6cbee2a0-0489-4c2e-92da-0451f089513c": {
+      "ProjectGuid": "6cbee2a0-0489-4c2e-92da-0451f089513c",
+      "DisplayName": "Librerias",
+      "ColorIndex": 6
+    },
+    "e9b25d9e-036a-4be7-b4e1-56f64a853ae5": {
+      "ProjectGuid": "e9b25d9e-036a-4be7-b4e1-56f64a853ae5",
+      "DisplayName": "Ficheros",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }

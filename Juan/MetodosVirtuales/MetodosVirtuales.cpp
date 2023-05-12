@@ -3,10 +3,13 @@
 #include <iostream>
 class Animal {
 public:
+    Animal(int _clave) { clave = _clave; }
     virtual ~Animal() {} // Destructor virtual
     virtual void hablar(){
         std::cout << "Animal Habla" << std::endl;
     }; // Método virtual puro
+private:
+    int clave = 0;
 };
 
 // Definición de la clase Exploration, que hereda de ExtraterrestrialRobot

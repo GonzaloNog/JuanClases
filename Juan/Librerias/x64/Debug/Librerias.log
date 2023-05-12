@@ -1,0 +1,6 @@
+﻿  Anima.cpp
+  Librerias.cpp
+C:\Users\noggo\Documents\GitHub\JuanClases\Juan\Librerias\Librerias.cpp(12,19): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noggo\Documents\GitHub\JuanClases\Juan\Librerias\Librerias.cpp(12,17): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Librerias.vcxproj -> C:\Users\noggo\Documents\GitHub\JuanClases\Juan\x64\Debug\Librerias.exe
