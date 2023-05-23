@@ -45,7 +45,12 @@
       "ProjectGuid": "e9b25d9e-036a-4be7-b4e1-56f64a853ae5",
       "DisplayName": "Ficheros",
       "ColorIndex": 7
+    },
+    "3e3170f5-5dd5-491e-9285-adb1401acd23": {
+      "ProjectGuid": "3e3170f5-5dd5-491e-9285-adb1401acd23",
+      "DisplayName": "Calificaciones",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
